@@ -1,5 +1,5 @@
-def reverse_each_word(sentence_string)
-  p string_arr = %w(sentence_string)
+def reverse_each_word("")
+  p string_arr = %w("")
   p string_arr
 end
 
