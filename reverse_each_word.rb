@@ -4,3 +4,5 @@ def reverse_each_word(sentence)
 end
 
 p reverse_each_word("domino park")
+
+p %w("This is a sentence")
