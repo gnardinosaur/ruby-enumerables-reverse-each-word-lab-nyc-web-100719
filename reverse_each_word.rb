@@ -5,4 +5,4 @@ end
 
 p reverse_each_word("domino park")
 
-p %w("This is a sentence")
+p %w("Nick is at Domino Park")
